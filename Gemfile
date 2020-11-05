@@ -5,6 +5,8 @@ ruby '2.7.2'
 
 #start custom gem
 gem 'pg'
+gem 'devise'
+gem 'simple_form'
 # end custom gem
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
